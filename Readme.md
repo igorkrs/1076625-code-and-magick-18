@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Игорь Красавцев](https://up.htmlacademy.ru/javascript/18/user/1076625).
-* Наставник: [Андрей Слесаренко](https://up.htmlacademy.ru/javascript/18/user/279781).
+* Наставник: `Неизвестно`.
 
 ---
 
